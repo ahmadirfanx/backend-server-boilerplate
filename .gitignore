@@ -1,0 +1,6 @@
+/node_modules
+/public/host/*
+/.vscode
+/public
+/.DS_Store
+/.idea
